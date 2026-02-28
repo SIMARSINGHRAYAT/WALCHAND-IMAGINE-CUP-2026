@@ -28,3 +28,8 @@ For more information about the challenge, visit the official website or contact 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## Recent Updates - PR #26
+
+Added documentation for PR testing and development workflow improvements.
