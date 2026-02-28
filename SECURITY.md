@@ -32,3 +32,7 @@ We support security updates for the latest major version of the project.
 - Follow secure coding guidelines
 
 Thank you for helping keep Walchand Imagine Cup 2026 secure!
+
+## Security Enhancements - PR #29
+
+Added security policy enhancements and improvements to vulnerability disclosure process.
